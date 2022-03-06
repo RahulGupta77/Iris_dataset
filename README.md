@@ -23,11 +23,14 @@
 
 ### Implementation : 
     
-    1. Iris dataset consists 4 features (sepal length, sepal width, petal length, petal width) and 3 labels (Setosa, Versicolour, and Virginica)  
+    1. Iris dataset consists 4 features (sepal length, sepal width, petal length, petal width) and 
+       3 labels (Setosa, Versicolour, and Virginica)  
     
-    2. In this problem statement, Feature was "Sepal length" and had to calculate "Sepal width" which is a continuous number 
+    2. In this problem statement, Feature was "Sepal length" and had to calculate "Sepal width" 
+       which is a continuous number 
     
-    3. So the given statement is a regression type problem which is solved using Stochastic Gradient Descent Regressor 
+    3. So the given statement is a regression type problem which is solved using Stochastic Gradient
+       Descent Regressor 
     
     
 ### Result : 
@@ -43,8 +46,8 @@
 
 ### Conclusion : 
 
-    The reason there is High error because the data (sepal length, sepal width) given to model is bias and is difficult to
-    fit the line which statisfies all the points. 
+    The reason there is High error because the data (sepal length, sepal width) given to model is 
+    bias and is difficult to fit the line which statisfies all the points. 
 
 ![Screenshot 2022-03-06 at 7 27 34 PM](https://user-images.githubusercontent.com/63935255/156926433-ff84c068-aa9c-4da1-8b74-66ce11a95030.png)
 
